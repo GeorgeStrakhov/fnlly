@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <title>FNLLY</title>
+    <style>
+      body {
+        margin: 0px;
+        padding: 0px;
+        width: 100%;
+        background-color: #dff;
+      }
+      #wrap {
+        width: 800px;
+        margin: 0 auto;
+        text-align: center;
+        margin-top: 190px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="wrap">
+      <img src="img/pinno_manifesto.png" />
+    </div>
+  </body>
+</html>
